@@ -1,0 +1,25 @@
+Series,Current,Min,Max,Average
+Start Time,-1.79769e+308
+End Time,1.79769e+308
+Current Time,1.70663e+09
+/pred_cup_pose/header/header/seq,8471,000000,8410,000000,8471,000000,8440,500000
+/pred_cup_pose/header/header/stamp,1703862891,653921,1703862886,433643,1703862891,653921,1703862889,459224
+/pred_cup_pose/pose/orientation/w,0,000000,0,000000,0,000000,0,000000
+/pred_cup_pose/pose/orientation/x,0,000000,0,000000,0,000000,0,000000
+/pred_cup_pose/pose/orientation/y,0,000000,0,000000,0,000000,0,000000
+/pred_cup_pose/pose/orientation/z,0,000000,0,000000,0,000000,0,000000
+/pred_cup_pose/pose/position/x,3,059294,3,059294,3,059294,3,059294
+/pred_cup_pose/pose/position/y,0,705577,0,705577,0,705577,0,705577
+/pred_cup_pose/pose/position/z,0,818772,0,818772,0,818772,0,818772
+/vrpn_mocap/cup/pose/header/header/seq,0,000000,0,000000,0,000000,0,000000
+/vrpn_mocap/cup/pose/header/header/stamp,1703862892,493588,1703862887,493549,1703862892,493588,1703862889,883991
+/vrpn_mocap/cup/pose/pose/orientation/pitch,0,108052,-1,113360,1,211093,0,002953
+/vrpn_mocap/cup/pose/pose/orientation/roll,0,006481,-1,964489,3,130918,1,680083
+/vrpn_mocap/cup/pose/pose/orientation/w,-0,058404,-0,995331,0,990977,-0,051139
+/vrpn_mocap/cup/pose/pose/orientation/x,-0,054096,-0,996699,0,996359,0,066708
+/vrpn_mocap/cup/pose/pose/orientation/y,0,000062,-0,719553,0,532048,-0,068750
+/vrpn_mocap/cup/pose/pose/orientation/yaw,-3,024196,-3,140778,3,141497,-0,321540
+/vrpn_mocap/cup/pose/pose/orientation/z,0,996826,-0,998612,0,998184,-0,043700
+/vrpn_mocap/cup/pose/pose/position/x,3,050844,2,654231,3,056286,2,753308
+/vrpn_mocap/cup/pose/pose/position/y,0,703702,0,682446,0,729755,0,706494
+/vrpn_mocap/cup/pose/pose/position/z,0,845188,0,814092,0,904866,0,845053

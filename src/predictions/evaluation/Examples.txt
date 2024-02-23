@@ -1,0 +1,11 @@
+Explanation:
+armpose node :
+    detects land marks for the right armpose : 
+    input :
+    output:   12, 14, 16 , xyz poses oof the right arm
+land markposepose node:
+    Extracts land marks for the full human 
+aruco marksers node:
+    recognises markers and ouputs pose
+danger index
+    calculates distance and velocity of marrksers from the robot.

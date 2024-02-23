@@ -1,0 +1,7 @@
+trac_ik/trac_ik_examples
+/home/starde20/ur_driver/devel/.private/trac_ik_examples/cmake.lock /home/starde20/ur_driver/devel/./cmake.lock
+/home/starde20/ur_driver/devel/.private/trac_ik_examples/share/trac_ik_examples/cmake/trac_ik_examplesConfig-version.cmake /home/starde20/ur_driver/devel/share/trac_ik_examples/cmake/trac_ik_examplesConfig-version.cmake
+/home/starde20/ur_driver/devel/.private/trac_ik_examples/share/trac_ik_examples/cmake/trac_ik_examplesConfig.cmake /home/starde20/ur_driver/devel/share/trac_ik_examples/cmake/trac_ik_examplesConfig.cmake
+/home/starde20/ur_driver/devel/.private/trac_ik_examples/lib/pkgconfig/trac_ik_examples.pc /home/starde20/ur_driver/devel/lib/pkgconfig/trac_ik_examples.pc
+/home/starde20/ur_driver/devel/.private/trac_ik_examples/lib/trac_ik_examples/motionpub_node /home/starde20/ur_driver/devel/lib/trac_ik_examples/motionpub_node
+/home/starde20/ur_driver/devel/.private/trac_ik_examples/lib/trac_ik_examples/ik_tests /home/starde20/ur_driver/devel/lib/trac_ik_examples/ik_tests

@@ -1,0 +1,2 @@
+universal_robot/universal_robots
+/home/starde20/ur_driver/devel/.private/universal_robots/cmake.lock /home/starde20/ur_driver/devel/./cmake.lock
