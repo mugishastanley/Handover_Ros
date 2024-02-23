@@ -23,7 +23,7 @@ class FramePublisher_arm:
         # Read message content and assign it to corresponding tf variables
         t.header.stamp = rospy.Time.now()
         t.header.frame_id = 'world'
-        t.child_frame_id = 'pred_cup_link'
+        t.child_frame_id= 'pred_cup_link'
 
         t.transform.translation.x = msg.pose.position.x
         t.transform.translation.y = msg.pose.position.y
