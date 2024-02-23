@@ -1,2 +1,0 @@
-hrl-kdl/hrl_kdl
-/home/starde20/ur_driver/devel/.private/hrl_kdl/cmake.lock /home/starde20/ur_driver/devel/./cmake.lock

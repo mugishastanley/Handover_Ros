@@ -1,5 +1,0 @@
-universal_robot/ur16e_moveit_config
-/home/starde20/ur_driver/devel/.private/ur16e_moveit_config/cmake.lock /home/starde20/ur_driver/devel/./cmake.lock
-/home/starde20/ur_driver/devel/.private/ur16e_moveit_config/share/ur16e_moveit_config/cmake/ur16e_moveit_configConfig.cmake /home/starde20/ur_driver/devel/share/ur16e_moveit_config/cmake/ur16e_moveit_configConfig.cmake
-/home/starde20/ur_driver/devel/.private/ur16e_moveit_config/share/ur16e_moveit_config/cmake/ur16e_moveit_configConfig-version.cmake /home/starde20/ur_driver/devel/share/ur16e_moveit_config/cmake/ur16e_moveit_configConfig-version.cmake
-/home/starde20/ur_driver/devel/.private/ur16e_moveit_config/lib/pkgconfig/ur16e_moveit_config.pc /home/starde20/ur_driver/devel/lib/pkgconfig/ur16e_moveit_config.pc

@@ -1,5 +1,0 @@
-jsk_visualization/jsk_interactive_markers/jsk_interactive_test
-/home/starde20/ur_driver/devel/.private/jsk_interactive_test/cmake.lock /home/starde20/ur_driver/devel/./cmake.lock
-/home/starde20/ur_driver/devel/.private/jsk_interactive_test/share/jsk_interactive_test/cmake/jsk_interactive_testConfig-version.cmake /home/starde20/ur_driver/devel/share/jsk_interactive_test/cmake/jsk_interactive_testConfig-version.cmake
-/home/starde20/ur_driver/devel/.private/jsk_interactive_test/share/jsk_interactive_test/cmake/jsk_interactive_testConfig.cmake /home/starde20/ur_driver/devel/share/jsk_interactive_test/cmake/jsk_interactive_testConfig.cmake
-/home/starde20/ur_driver/devel/.private/jsk_interactive_test/lib/pkgconfig/jsk_interactive_test.pc /home/starde20/ur_driver/devel/lib/pkgconfig/jsk_interactive_test.pc

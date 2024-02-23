@@ -1,5 +1,0 @@
-twist_publisher_pkg
-/home/starde20/ur_driver/devel/.private/twist_publisher_pkg/cmake.lock /home/starde20/ur_driver/devel/./cmake.lock
-/home/starde20/ur_driver/devel/.private/twist_publisher_pkg/share/twist_publisher_pkg/cmake/twist_publisher_pkgConfig.cmake /home/starde20/ur_driver/devel/share/twist_publisher_pkg/cmake/twist_publisher_pkgConfig.cmake
-/home/starde20/ur_driver/devel/.private/twist_publisher_pkg/share/twist_publisher_pkg/cmake/twist_publisher_pkgConfig-version.cmake /home/starde20/ur_driver/devel/share/twist_publisher_pkg/cmake/twist_publisher_pkgConfig-version.cmake
-/home/starde20/ur_driver/devel/.private/twist_publisher_pkg/lib/pkgconfig/twist_publisher_pkg.pc /home/starde20/ur_driver/devel/lib/pkgconfig/twist_publisher_pkg.pc

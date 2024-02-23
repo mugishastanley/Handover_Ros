@@ -1,5 +1,0 @@
-predictions
-/home/starde20/ur_driver/devel/.private/predictions/cmake.lock /home/starde20/ur_driver/devel/./cmake.lock
-/home/starde20/ur_driver/devel/.private/predictions/share/predictions/cmake/predictionsConfig-version.cmake /home/starde20/ur_driver/devel/share/predictions/cmake/predictionsConfig-version.cmake
-/home/starde20/ur_driver/devel/.private/predictions/share/predictions/cmake/predictionsConfig.cmake /home/starde20/ur_driver/devel/share/predictions/cmake/predictionsConfig.cmake
-/home/starde20/ur_driver/devel/.private/predictions/lib/pkgconfig/predictions.pc /home/starde20/ur_driver/devel/lib/pkgconfig/predictions.pc

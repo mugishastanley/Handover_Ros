@@ -1,5 +1,0 @@
-universal_robot/ur_description
-/home/starde20/ur_driver/devel/.private/ur_description/cmake.lock /home/starde20/ur_driver/devel/./cmake.lock
-/home/starde20/ur_driver/devel/.private/ur_description/share/ur_description/cmake/ur_descriptionConfig.cmake /home/starde20/ur_driver/devel/share/ur_description/cmake/ur_descriptionConfig.cmake
-/home/starde20/ur_driver/devel/.private/ur_description/share/ur_description/cmake/ur_descriptionConfig-version.cmake /home/starde20/ur_driver/devel/share/ur_description/cmake/ur_descriptionConfig-version.cmake
-/home/starde20/ur_driver/devel/.private/ur_description/lib/pkgconfig/ur_description.pc /home/starde20/ur_driver/devel/lib/pkgconfig/ur_description.pc
